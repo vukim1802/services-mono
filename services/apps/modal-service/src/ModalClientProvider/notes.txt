@@ -1,0 +1,1 @@
+3. napisati testove za ModalClient
